@@ -1,0 +1,8 @@
+{
+  "info": { "name": "E-commerce Mini API", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json" },
+  "item": [
+    { "name": "Health", "request": { "method": "GET", "url": "http://localhost:4000/api/health" } },
+    { "name": "List Products", "request": { "method": "GET", "url": { "raw": "http://localhost:4000/api/products?q=&category=&sort=&page=1&limit=12", "host": ["http://localhost:4000"], "path": ["api","products"], "query": [ {"key":"q","value":""}, {"key":"category","value":""}, {"key":"sort","value":""}, {"key":"page","value":"1"}, {"key":"limit","value":"12"} ] } } },
+    { "name": "Get Product by ID", "request": { "method": "GET", "url": "http://localhost:4000/api/products/{{product_id}}" } }
+  ]
+}

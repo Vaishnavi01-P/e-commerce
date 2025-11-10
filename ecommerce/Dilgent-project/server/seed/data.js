@@ -1,0 +1,22 @@
+export const sampleProducts = [
+  { name: 'Wireless Headphones', description: 'Over-ear, noise-cancelling', price: 99.99, images: ['https://images.unsplash.com/photo-1518441902117-f83e68b73017?w=800'], category: 'Electronics', rating: 4.5, stock: 12 },
+  { name: 'Smart Watch', description: 'Fitness tracking and notifications', price: 129.0, images: ['https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800'], category: 'Electronics', rating: 4.2, stock: 8 },
+  { name: 'Portable Speaker', description: 'Bluetooth, waterproof', price: 49.99, images: ['https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800'], category: 'Electronics', rating: 4.1, stock: 5 },
+  { name: 'Novel: The Wanderer', description: 'A thrilling adventure', price: 12.99, images: ['https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800'], category: 'Books', rating: 4.6, stock: 25 },
+  { name: 'Cookbook: Home Kitchen', description: '100 tasty recipes', price: 18.5, images: ['https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=800'], category: 'Books', rating: 4.0, stock: 14 },
+  { name: 'Throw Pillow', description: 'Soft and stylish', price: 15.0, images: ['https://images.unsplash.com/photo-1484101403633-562f891dc89a?w=800'], category: 'Home & Kitchen', rating: 3.9, stock: 30 },
+  { name: 'Ceramic Mug', description: '12oz, microwave-safe', price: 9.99, images: ['https://images.unsplash.com/photo-1528909514045-2fa4ac7a08ba?w=800'], category: 'Home & Kitchen', rating: 4.3, stock: 40 },
+  { name: 'Stylish Lamp', description: 'Adjustable brightness', price: 39.99, images: ['https://images.unsplash.com/photo-1481277542470-605612bd2d61?w=800'], category: 'Home & Kitchen', rating: 4.4, stock: 3 },
+  { name: 'Men\'s T-Shirt', description: '100% cotton', price: 19.99, images: ['https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800'], category: 'Fashion', rating: 4.2, stock: 20 },
+  { name: 'Women\'s Sneakers', description: 'Comfort fit', price: 59.99, images: ['https://images.unsplash.com/photo-1520975922284-4359b7bd8bae?w=800'], category: 'Fashion', rating: 4.5, stock: 7 },
+  { name: 'Backpack', description: 'Laptop compartment', price: 45.0, images: ['https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800'], category: 'Fashion', rating: 4.1, stock: 15 },
+  { name: 'Desk Organizer', description: 'Keep things tidy', price: 14.99, images: ['https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=800'], category: 'Home & Kitchen', rating: 3.8, stock: 9 },
+  { name: 'E-reader', description: 'Glare-free, long battery', price: 89.99, images: ['https://images.unsplash.com/photo-1553729784-e91953dec042?w=800'], category: 'Electronics', rating: 4.7, stock: 4 },
+  { name: 'Mechanical Keyboard', description: 'Tactile switches', price: 79.99, images: ['https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800'], category: 'Electronics', rating: 4.6, stock: 6 },
+  { name: 'LED Monitor 24"', description: '1080p, IPS', price: 149.99, images: ['https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800'], category: 'Electronics', rating: 4.4, stock: 5 },
+  { name: 'Notebook Set', description: 'Pack of 3', price: 7.99, images: ['https://images.unsplash.com/photo-1515871204537-9cd74abd7ad6?w=800'], category: 'Books', rating: 3.7, stock: 50 },
+  { name: 'Chef Knife', description: '8-inch stainless steel', price: 29.99, images: ['https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=800'], category: 'Home & Kitchen', rating: 4.5, stock: 11 },
+  { name: 'Yoga Mat', description: 'Non-slip', price: 24.99, images: ['https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800'], category: 'Home & Kitchen', rating: 4.2, stock: 18 },
+  { name: 'Desk Chair', description: 'Ergonomic', price: 129.99, images: ['https://images.unsplash.com/photo-1580480055273-228ff5388ef5?w=800'], category: 'Home & Kitchen', rating: 4.1, stock: 2 },
+  { name: 'Hoodie', description: 'Warm and comfy', price: 39.99, images: ['https://images.unsplash.com/photo-1516826957135-700dedea698c?w=800'], category: 'Fashion', rating: 4.3, stock: 10 }
+]
